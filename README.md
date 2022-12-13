@@ -4,3 +4,15 @@ Decoder ring THINKFUL Project
 
 
 ![Decoder ring website](./Image/decoder.png)
+
+
+**This project is designed to test your ability to build tricky algorithms as well as write unit tests with Mocha and Chai. Before taking on this module, you should be comfortable with the following:**
+
+
+- installing packages via NPM
+- Modifying the package.json file with new scripts
+- Running tests from the command line
+- Writing JavaScript functions
+- Writing tests for specific functions
+- Iterating through strings, objects, and arrays
+- Debugging through reading errors and using the VSCode debugge
